@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 180" width="1600" height="180" role="img" aria-label="02 STACK">
+  <rect width="1600" height="180" fill="#0d1117"/>
+  <g fill="none" stroke="#ffffff" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(45,46)"><ellipse cx="22" cy="44" rx="19" ry="42"/><path d="M35,15 L9,73"/></g><g transform="translate(101,46)"><path d="M4,22 C4,9 15,2 24,2 C36,2 42,11 42,21 C42,35 31,45 4,86 L43,86"/></g></g>
+  <text x="190" y="98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="21"
+        letter-spacing="7.5" fill="#ffffff">STACK</text>
+  <line x1="346" y1="90.0" x2="1384" y2="90.0"
+        stroke="#ffffff" stroke-width="1.5" opacity="0.45"/>
+  <text x="1556" y="96" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"
+        font-size="17" letter-spacing="2.0" fill="#8b949e">~/02-stack</text>
+</svg>

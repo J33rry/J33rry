@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 320" width="1600" height="320" role="img" aria-label="ANIL KUMAR MEENA">
+  <rect width="1600" height="320" fill="#0d1117"/>
+  <text x="46" y="72" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2.5"
+        fill="#8b949e">~/github.com/J33rry</text>
+  <text x="1554" y="72" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16"
+        letter-spacing="2.5" fill="#8b949e">focusing</text>
+  <text x="44" y="186" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="72" font-weight="300"
+        letter-spacing="11" fill="#ffffff">ANIL KUMAR MEENA</text>
+  <text x="48" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" letter-spacing="4.5"
+        fill="#8b949e">full-stack developer &#183; web &#183; machine learning</text>
+  <line x1="46" y1="278" x2="1554" y2="278" stroke="#ffffff" stroke-width="1.5" opacity="0.28"/>
+</svg>
